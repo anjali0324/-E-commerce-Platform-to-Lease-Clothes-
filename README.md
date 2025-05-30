@@ -1,3 +1,4 @@
 # E-commerce-Platform-to-Lease-Clothes
- Created an E-commerce website using Node.js with Express for the backend and React for the frontend, allowing users to lease clothes 
- Integrated a random forest regressor and a CNN (specifically VGG16 architecture) with 85% accuracy to predict the quality decrease
+This project aims to create an E-commerce website to lease clothes by integrating a random forest regressor and a CNN (mainly VGG16 architecture).
+This project is currently in progress.
+I will upload the preview with all its documentation soon...
